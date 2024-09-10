@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(70, 0, 255);
+}
+.header {
+text-align: center;
+font-size: 42px;
+color: rgb(255, 0, 70);
+}
+li {
+    color: white;
+}
+
+.first {
+    color: red;
+}
+#cool {
+    color: green;
+}
+.card-desc {
+    color: white;
+}
+.card {
+
+}
+.card-header {
+
+}
+.card-img {
+height: 300px;
+}
+.blog {
+
+}
+
+
+
+
+\classes for multiple targets\
+\id for singular target\
